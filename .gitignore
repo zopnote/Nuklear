@@ -1,6 +1,7 @@
 demo/*/*/demo
 demo/*/bin/*
 example/bin/*
+.idea/
 docs/xml
 docs/build
 docs/src
